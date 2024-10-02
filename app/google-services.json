@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "267959835828",
+    "project_id": "roomie-922cc",
+    "storage_bucket": "roomie-922cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267959835828:android:c447366820849f2b9f4be1",
+        "android_client_info": {
+          "package_name": "com.example.rommatefindermvp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUaYqa5Caeui50ada2VMNAfMrXGm0Wv9M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
